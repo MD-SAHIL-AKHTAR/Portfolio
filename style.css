@@ -36,7 +36,7 @@ header {
 }
 
 #menu-icon {
-    font-size: 2.6rem;
+    font-size: 2rem;
     color: var(--main-color);
     display: none;
 }
@@ -364,7 +364,7 @@ section {
         display: block;
     }
     .logo {
-        font-size: 1rem;
+        font-size: 1.4rem;
     }
     .navbar {
         position: absolute;
