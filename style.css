@@ -363,6 +363,9 @@ section {
     #menu-icon{
         display: block;
     }
+    .logo {
+        font-size: 1rem;
+    }
     .navbar {
         position: absolute;
         top: 100%;
