@@ -364,7 +364,8 @@ section {
         display: block;
     }
     .logo {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
+        align-items: center;
     }
     .navbar {
         position: absolute;
